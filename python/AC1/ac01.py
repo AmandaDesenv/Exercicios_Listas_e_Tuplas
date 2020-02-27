@@ -1,6 +1,6 @@
 # Atividade Contínua 01
-# Aluno 01: Abner De Melo Porto
-# Aluno 02: Amanda Conceição Gomes
+# Aluno 01: Abner de Melo Porto
+# Aluno 02: Amanda da Conceição Gomes
 # Aluno 03: Vinícius Tertuliano da Silva
 
 
